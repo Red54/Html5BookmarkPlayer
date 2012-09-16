@@ -114,16 +114,16 @@
 		
 		
 		var a = document.createElement('span');		
-		a.innerHTML = 'ç›®å‰åªæœ‰m3u8æ ¼å¼çš„æ”¯æŒ,è²Œä¼¼åªæœ‰safairæ‰èƒ½æ’­æ”¾ã€‚';
+		a.innerHTML = 'Ä¿Ç°Ö»ÓĞm3u8¸ñÊ½µÄÖ§³Ö,Ã²ËÆÖ»ÓĞsafair²ÅÄÜ²¥·Å¡£';
 		a.style.cssText += aCss.join(';');
 		cover.appendChild(a);
 		
 		var off = document.createElement('div');
-		off.innerHTML = 'é€€å‡º';
+		off.innerHTML = 'ÍË³ö';
 		off.style.cssText += btnCss.join(';')+';right:0;';
 		cover.appendChild(off);
 		var nocover = document.createElement('div');
-		nocover.innerHTML = 'æ‰“å¼€è¿·é›¾';
+		nocover.innerHTML = '´ò¿ªÃÔÎí';
 		nocover.style.cssText += btnCss.join(';')+';right:60px;';
 		cover.appendChild(nocover);
 		
@@ -144,7 +144,7 @@
 		// t_yuanhua.style.cssText += changeBtnItemCss.join(';');
 		// t_yuanhua.style.backgroundColor = '#666';
 		// t_yuanhua.style.boxShadow = '0 0 3px #000 inset';
-		// t_yuanhua.innerHTML = 'åŸç”»';
+		// t_yuanhua.innerHTML = 'Ô­»­';
 		// changeBtn.appendChild(t_yuanhua);
 		
 		// var t_360 = document.createElement('div');
